@@ -269,7 +269,7 @@ sudo ifdown br0 && sudo ifup br0   # Restart bridge
 ## Author
 
 **Roland HB9VQQ**
-- Amateur Radio Operator & Network Engineer
+- Amateur Radio Operator & IT Security Engineer
 - Developer of propagation analysis tools
 - Creator of technical documentation for amateur radio applications
 
